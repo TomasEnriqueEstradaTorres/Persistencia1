@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Persistencia1</string>
+
+    <string name="datoUsuario">Datos de Usuario</string>
+    <string name="UserName">Ingrese Apodo</string>
+    <string name="email">Ingrese su Email</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="apellido">Ingrese su apellido</string>
+    <string name="Ingresar">Ingresar Datos</string>
+    <string name="mantenerDatos">Mantener los datos</string>
+
+
+</resources>
