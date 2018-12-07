@@ -83,17 +83,17 @@
         android:textAlignment="center"
         android:textSize="20sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/checkBox"
+        app:layout_constraintBottom_toTopOf="@+id/checkBoxEstoyDeacuerdo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/checkBoxEstoyDeacuerdo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="163dp"
         android:layout_marginStart="16dp"
-        android:text="@string/mantenerDatos"
+        android:text="@string/estoyDeacuerdo"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -109,7 +109,7 @@
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/checkBox" />
+        app:layout_constraintTop_toBottomOf="@+id/checkBoxEstoyDeacuerdo" />
 
 
 </android.support.constraint.ConstraintLayout>

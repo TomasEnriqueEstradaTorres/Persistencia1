@@ -6,8 +6,8 @@
     <string name="email">Ingrese su Email</string>
     <string name="nombre">Ingrese su nombre</string>
     <string name="apellido">Ingrese su apellido</string>
-    <string name="Ingresar">Ingresar Datos</string>
-    <string name="mantenerDatos">Mantener los datos</string>
+    <string name="Ingresar">Guardar Datos</string>
+    <string name="estoyDeacuerdo">Estoy deacuerdo</string>
 
 
 </resources>
